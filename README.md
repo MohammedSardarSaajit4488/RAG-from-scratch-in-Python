@@ -2,7 +2,6 @@
 
 A complete **Retrieval-Augmented Generation (RAG)** system built from scratch in plain Python, in under 50 lines of code. It runs **100% locally** with [Ollama](https://ollama.com), so it is free and private, and your documents never leave your machine.
 
-> Built while following the tutorial [How to Build RAG From Scratch in 50 Lines of Python](https://youtu.be/f9uAG3AQGWM) by Tech With Tim.
 
 ---
 
